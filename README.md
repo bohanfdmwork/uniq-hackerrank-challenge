@@ -35,6 +35,16 @@ Run all commands from the root of the downloaded challenge folder.
 Native PowerShell commands are outside the scope of this challenge.
 
 ---
+## Getting Started
+
+1. Select **Code → Download ZIP** on this GitHub page.
+2. Extract the downloaded ZIP file.
+3. Open the extracted folder in Visual Studio Code.
+4. Open a Bash-compatible terminal:
+   - Git Bash or WSL on Windows
+   - A standard terminal on Linux
+5. Run all commands from the root of the challenge folder.
+---
 
 ## Task 1 — Investigate Repeated Sources
 
